@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 21:10
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -443,7 +443,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count92
 )
-(aps5semestre-cc.aux)
+(aps5semestre-cc.aux (objetivo.aux) (introducao.aux) (fundamentos.aux))
 \openout1 = `aps5semestre-cc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -459,7 +459,8 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 25.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 *geometry* driver: auto-detecting
@@ -561,26 +562,56 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
  (aps5semestre-cc.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write3
 \openout3 = `aps5semestre-cc.toc'.
 
  [2]
-[3] [4] (aps5semestre-cc.aux) ) 
+\openout2 = `objetivo.aux'.
+
+ (objetivo.tex)
+[3
+
+]
+\openout2 = `introducao.aux'.
+
+ (introducao.tex) [4
+
+
+]
+\openout2 = `fundamentos.aux'.
+
+ (fundamentos.tex [5
+
+
+]) [6] [7
+
+] [8] [9] [10]
+(aps5semestre-cc.aux (objetivo.aux) (introducao.aux) (fundamentos.aux)) ) 
 Here is how much of TeX's memory you used:
- 3264 strings out of 493333
- 42524 string characters out of 3139191
- 209459 words of memory out of 3000000
- 6731 multiletter control sequences out of 15000+200000
- 23298 words of font info for 29 fonts, out of 3000000 for 9000
+ 3330 strings out of 493333
+ 43440 string characters out of 3139191
+ 213215 words of memory out of 3000000
+ 6757 multiletter control sequences out of 15000+200000
+ 27645 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,4n,25p,243b,143s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/bas
-e/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on aps5semestre-cc.pdf (4 pages, 26806 bytes).
+ 39i,4n,25p,243b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Pr
+ogram Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvr8a.pfb>
+Output written on aps5semestre-cc.pdf (10 pages, 37430 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
