@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 22:06
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -443,7 +443,8 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count92
 )
-(aps5semestre-cc.aux (objetivo.aux) (introducao.aux) (fundamentos.aux))
+(aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux) (introducao.aux)
+(fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux))
 \openout1 = `aps5semestre-cc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -552,34 +553,43 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+\openout2 = `capa.aux'.
+
+ (capa.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
- [1
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 8.
+) [1
+
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `sumario.aux'.
+
+ (sumario.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 56.
- (aps5semestre-cc.toc
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+
+(aps5semestre-cc.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 5.
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
 \openout3 = `aps5semestre-cc.toc'.
 
- [2]
+) [2
+
+
+]
 \openout2 = `objetivo.aux'.
 
- (objetivo.tex)
-[3
+ (objetivo.tex) [3
+
 
 ]
 \openout2 = `introducao.aux'.
@@ -593,22 +603,46 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (fundamentos.tex [5
 
 
-]) [6] [7
+]) [6]
+\openout2 = `plano.aux'.
 
-] [8] [9] [10]
-(aps5semestre-cc.aux (objetivo.aux) (introducao.aux) (fundamentos.aux)) ) 
+ (plano.tex) [7
+
+
+]
+\openout2 = `projeto.aux'.
+
+
+(projeto.tex) [8
+
+
+]
+\openout2 = `codigo.aux'.
+
+ (codigo.tex) [9
+
+
+]
+\openout2 = `bibliografia.aux'.
+
+ (bibliografia.tex) [10
+
+
+] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux) (introducao.aux)
+ (fundamentos.aux)
+(plano.aux) (projeto.aux) (codigo.aux) (bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 3330 strings out of 493333
- 43440 string characters out of 3139191
- 213215 words of memory out of 3000000
- 6757 multiletter control sequences out of 15000+200000
+ 3375 strings out of 493333
+ 43883 string characters out of 3139191
+ 214476 words of memory out of 3000000
+ 6762 multiletter control sequences out of 15000+200000
  27645 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,4n,25p,243b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Pr
-ogram Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
-rw/helvetic/uhvr8a.pfb>
+{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvr8a.pfb>
 Output written on aps5semestre-cc.pdf (10 pages, 37430 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
