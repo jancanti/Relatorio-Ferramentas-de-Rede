@@ -10,3 +10,11 @@ A level-1 auxiliary file: codigo.aux
 A level-1 auxiliary file: bibliografia.aux
 The style file: apa.bst
 Database file #1: refs.bib
+Warning--entry type for "morimoto2006" isn't style-file defined
+--line 23 of file refs.bib
+I was expecting a `,' or a `}'---line 38 of file refs.bib
+ :  
+ :  edition={1a. edição}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There was 1 error message)

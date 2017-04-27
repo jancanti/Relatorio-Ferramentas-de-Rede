@@ -1,14 +1,39 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{Forouzan}{2009}]{forouzan2009comunicaccao}
-Forouzan, B.~A. (2009).
+\bibitem[\protect\astroncite{CASTELLS}{2002}]{castells2002sociedade}
+CASTELLS, M. (2002).
+\newblock {\em A sociedade em rede}, volume~1.
+\newblock Funda{\c{c}}{\~a}o Calouste Gulbenkian.
+
+\bibitem[\protect\astroncite{FARIAS}{2006}]{farias2006essncial}
+FARIAS, P. C.~B. (2006).
+\newblock {\em Curso Essencial de Redes.}, volume~2.
+\newblock Editora Digerati.
+
+\bibitem[\protect\astroncite{FOROUZAN}{2009}]{forouzan2009comunicaccao}
+FOROUZAN, B.~A. (2009).
 \newblock {\em Comunica{\c{c}}{\~a}o de dados e redes de computadores}.
 \newblock AMGH Editora.
 
-\bibitem[\protect\astroncite{Gallo et~al.}{2003}]{gallo2003comunicaccao}
-Gallo, M.~A., Hancock, W.~S., da~Silva, F. S.~C., de~Freitas~Carneiro, M.~R.,
+\bibitem[\protect\astroncite{GALLO et~al.}{2003}]{gallo2003comunicaccao}
+GALLO, M.~A., Hancock, W.~S., da~Silva, F. S.~C., de~Freitas~Carneiro, M.~R.,
   and de~Melo, A. C.~V. (2003).
 \newblock {\em Comunica{\c{c}}{\~a}o entre computadores e tecnologias de rede}.
 \newblock Pioneira Thomson Learning.
+
+\bibitem[\protect\astroncite{MORIMOTO}{2005}]{morimoto2006}
+MORIMOTO, C.~E. (2005).
+\newblock Gateway, a porta de entrada da internet. acessado em 27-04-2017.
+  disponível em \textbf{http://www.hardware.com.br/termos/gateway}.
+
+\bibitem[\protect\astroncite{ROSS}{2008}]{ross2009redes}
+ROSS, J. (2008).
+\newblock {\em Redes de Computadores}, volume~1.
+\newblock Editora Antenna.
+
+\bibitem[\protect\astroncite{TORRES}{2015}]{torres2015redes}
+TORRES, G. (2015).
+\newblock {\em Redes de computadores}.
+\newblock Novaterra Editora e Distribuidora LTDA.
 
 \end{thebibliography}
