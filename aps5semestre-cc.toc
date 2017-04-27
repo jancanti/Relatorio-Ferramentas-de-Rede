@@ -4,6 +4,7 @@
 \contentsline {section}{\numberline {3}Fundamentos de comunica\IeC {\c c}\IeC {\~a}o de dados em rede}{5}
 \contentsline {subsection}{\numberline {3.1}Hist\IeC {\'o}ria das Tecnologias de Rede}{5}
 \contentsline {subsection}{\numberline {3.2}Alguns Conceitos de redes de Computadores}{5}
+\contentsline {subsection}{\numberline {3.3}Classifica\IeC {\c c}\IeC {\~a}o de Redes}{7}
 \contentsline {section}{\numberline {4}Plano de desenvolvimento da aplica\IeC {\c c}\IeC {\~a}o}{8}
 \contentsline {section}{\numberline {5}Projeto}{9}
 \contentsline {section}{\numberline {6}C\IeC {\'o}digo fonte}{10}
