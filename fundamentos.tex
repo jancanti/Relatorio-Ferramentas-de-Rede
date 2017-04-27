@@ -1,4 +1,4 @@
-\section{Fundamentos de comunicação de dados em rede}
+\section{Fundamentos de Comunicação de Dados em Rede}
 Segundo \nocite{gallo2003comunicaccao}Gallo (2003), uma rede é um conjunto de sistemas que possuem uma forma de comunicação entre si com o objetivo de compartilhar informações.
 
 Como exemplo, podemos citar a rede de telefonia. Cada telefone desta rede possui ligação com qualquer outro telefone - desde que você saiba o seu número. Basta você discar o telefone de uma pessoa e com isso você estabelecerá uma conexão entre o seu telefone e o telefone dela. Os dois aparelhos irão mandar dados uns para os outros - no caso, a conversa entre você e a pessoa do outro lado da linha.
@@ -8,9 +8,8 @@ Outro exemplo é a televisão. Os programas de televisão também chegam à voc�
 	\subsection{História das Tecnologias de Rede}
 	Uma rede de computadores envolve a interconexão entre dois ou mais micros, o que permite a troca de dados entre essas unidades e otimiza os recursos de hardware e software. Deve ter regras básicas que garantam o envio seguro de informações. Para ser eficiente, ela precisa que os dados transitem de um computador para outro sem que sofram danos. Também é necessário que a rede seja capaz de determinar corretamente para onde as informações estão indo. Além disso, os computadores interligados tem que poder se identificar uns aos outros e deve existir um modo padronizado de nomear e identificar as partes que a compõem. Atualmente, existem milhões de máquina conectadas à Internet e ela tornou-se tão poderosa que é capaz de transmitir entre computadores todo o tipo de dados como imagens, sons, vídeos, textos escritos e até mesmo programas de computador. \cite{forouzan2009comunicaccao}.
 	
-	\subsection{Alguns Conceitos de redes de Computadores}
-	Redes de Computadores formam uma tecnologia de rede única. Nenhuma outra tecnologia de rede é tão versátil e poderosa como ela. Devido à isso, quando falamos sobre elas, podemos utilizar os seguintes termos listados neste pequeno glossário:
-	
+	\subsection{Conceitos Sobre Redes}
+	Redes de Computadores formam uma tecnologia de rede única. Nenhuma outra tecnologia de rede é tão versátil e poderosa como ela. Devido à isso, quando falamos sobre elas, podemos utilizar os seguintes termos:
 	\begin{description}
 		\item[Clientes] são computadores que se conectam à um computador central para requisitar que este realize alguma tarefa na qual é especializado.
 		\item[Confiabilidade] Em todo o tipo de comunicação à distância, existe a possibilidade de ocorrer um erro na hora de se interpretar os dados. No caso das redes de computadores, isso é algo que pode ocorrer devido à vários motivos como interferência ou o enfraquecimento do sinal com a distância. Para se criar uma rede de computadores confiável, é preciso fazer com que os computadores sejam capazes de detectar erros na transmissão. Uma vez que isso ocorra, pode-se tentar corrigí-los ou então pedir para que os dados sejam retransmitidos.
@@ -25,10 +24,41 @@ Outro exemplo é a televisão. Os programas de televisão também chegam à voc�
 
 	\subsection{Classificação de Redes}
 	Quanto ao Tamanho das redes, podemos classificá-las como:
-		\begin{description}
-			\item[PAN] Esta é uma sigla para Personal Area Network(Rede de Área Pessoal). Chamam-se assim pequenas redes domésticas de computadores. O alcance destas redes normalmente é o de alguns poucos metros.
-			\item[LAN] 
-		\end{description}
+	\begin{description}
+		\item[PAN] O alcance destas redes normalmente é o de alguns poucos metros.
+		\item[LAN] Qualquer rede cujo raio de alcance seja menor do que 10 Km se encaixa nesta categoria.
+		\item[MAN] Este nome é usado para redes maiores do que LANs e que normalmente ocupam a área de uma cidade inteira. Embora existam MANs que pertencem à uma única organização, o mais normal é que elas sejam formadas por redes interconectadas de vários indivíduos e organizações diferentes. Elas também podem ser usadas pela administração do município como serviços de utilidade pública.
+		\item[WAN] Qualquer rede cuja área é maior do que uma cidade se encaixa nesta categoria. Existem WANs que possuem uma área de alcance que cruzam até mesmo diferentes estados e países. Atualmente, a maior WAN existente é a Internet.
+	\end{description}
+
+	\subsection{Espaço de Redes}
+	O espaço de uma rede mostra como as máquinas estão ligadas entre si. Dessa forma as redes podem ser classificadas em:
+	\begin{description}
+		\item[Redes Ponto-a-Ponto] Em redes deste tipo, cada nó só pode se comunicar com nós adjacentes. É como em uma brincadeira de telefone sem fio no qual para que uma mensagem chegue até alguém, ela precisa passar por vários intermediários, já que só é possível falar com as pessoas que estejam ao seu lado.
+			\begin{description}
+				\item[Estrela] Neste tipo de rede, existe um nó central (normalmente um hub ou switch) à partir do qual todas as máquinas estão conectadas. Para enviar uma mensagem à alguém, é preciso primeiro enviar para o nó central e só então o nó central passa a mensagem para o destinatário.
+				\item[Laço] Neste tipo de rede, não existe um nó central. Ao invés disso, as máquinas então todas conectadas entre si e existem nós que estão conectados a mais de um outro nodo. Por não possuírem um nó central, não existe um único ponto cujo funcionamento mantém a rede inteira. Por isso, eles tendem a ser mais seguros. Entretanto, o roteamento neste tipo de rede tende a ser mais complexo. Existem também redes em laço que são totalmente conectadas. Nelas, cada nó está conectado à todos os demais. Por causa de sua complexidade e custo proibitivo, este tipo de laço só é usado em redes pequenas com poucos nós.
+				\item[Árvore] Neste tipo de topologia, existe um nó que é considerado a raiz. Ela possui ligada à ela outros nós que são considerados seus filhos e ele é o pai destes nós. Cada nó que é filho da raiz pode ter outros filhos e estes também podem ter seus filhos. Entretanto, cada nó, com exceção da raiz, deve possuir um único pai. Normalmente, estas redes possuem como nós diversos Hubs ou Switchs. Nelas, os nós que não possuem filhos normalmente são os computadores e terminais de trabalho.
+			\end{description}
+		\item[Redes de Difusão] Neste tipo de rede, os nós compartilham um canal único de comunicação. Nele, os dados enviados por uma máquina são recebidos por todos os nós que compartilham um mesmo canal. É como em uma conversa normal. Quando você fala, várias pessoas ao redor ouvem o que você disse, mas somente a pessoa com quem você está falando responde.
+			\begin{description}
+				\item[Barramento] Neste tipo de rede, todos os nós compartilham um mesmo canal. Se algum dos nós enviar uma mensagem pela rede, todos os demais irão ouvir. Deve-se tomar cuidado para que mais de um nó não tente falar ao mesmo tempo, pois se isso ocorrer, ninguém conseguirá entender a mensagem transmitida.
+				\item[Satélite] Neste tipo de rede, existe um satélite capaz de transmitir dados para todos os nós em Terra que estejam na área de alcance e estejam equipados com antenas para captar o seu sinal. Se o satélite envia um sinal, todos os outros nós ouvem. Mas se um nó mandar uma mensagem para o satélite, somente o satélite será capaz de ouvir a mensagem.
+			\end{description}
+		
+	\end{description}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

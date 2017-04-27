@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  27 APR 2017 14:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  27 APR 2017 15:17
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -612,23 +612,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (fundamentos.tex [5
 
 
-] [6]) [7]
+] [6]
+Overfull \hbox (0.11151pt too wide) in paragraph at lines 39--40
+[]\T1/phv/m/n/12 Neste tipo de rede, existe um nó cen-tral (nor-mal-mente um hu
+b ou switch)
+ []
+
+[7]) [8]
 \openout2 = `plano.aux'.
 
- (plano.tex) [8
+ (plano.tex) [9
 
 
 ]
 \openout2 = `projeto.aux'.
 
-
-(projeto.tex) [9
+ (projeto.tex) [10
 
 
 ]
 \openout2 = `codigo.aux'.
 
- (codigo.tex) [10
+ (codigo.tex) [11
 
 
 ]
@@ -637,28 +642,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (bibliografia.tex (aps5semestre-cc.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
-))
-[11
+)) [12
 
 
-] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux)
-(introducao.aux) (fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux)
-(bibliografia.aux)) ) 
+] (aps5semestre-cc.aux (capa.aux) (sumario.aux)
+(objetivo.aux) (introducao.aux) (fundamentos.aux) (plano.aux) (projeto.aux)
+(codigo.aux) (bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
  3730 strings out of 493333
  48516 string characters out of 3139185
- 220561 words of memory out of 3000000
+ 220562 words of memory out of 3000000
  7106 multiletter control sequences out of 15000+200000
  30661 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,4n,25p,984b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on aps5semestre-cc.pdf (11 pages, 52632 bytes).
+ 39i,4n,25p,984b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/
+base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on aps5semestre-cc.pdf (12 pages, 55856 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
