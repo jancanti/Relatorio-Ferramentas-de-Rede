@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o}{4}
 \contentsline {section}{\numberline {3}Fundamentos de comunica\IeC {\c c}\IeC {\~a}o de dados em rede}{5}
 \contentsline {subsection}{\numberline {3.1}Lan}{5}
-\contentsline {subsection}{\numberline {3.2}Wan}{5}
+\contentsline {subsection}{\numberline {3.2}Wan}{6}
 \contentsline {section}{\numberline {4}Plano de desenvolvimento da aplica\IeC {\c c}\IeC {\~a}o}{7}
 \contentsline {section}{\numberline {5}Projeto}{8}
 \contentsline {section}{\numberline {6}C\IeC {\'o}digo fonte}{9}

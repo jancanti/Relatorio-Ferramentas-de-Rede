@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  26 APR 2017 22:43
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -411,6 +411,13 @@ Package babel Info: Making " an active character on input line 145.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -434,32 +441,32 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count91
+\Gread@gobject=\count92
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count92
+\c@lips@count=\count93
 )
 (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux) (introducao.aux)
-(fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux))
+(fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux) (bibliografia.aux))
 \openout1 = `aps5semestre-cc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 28.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -500,16 +507,16 @@ File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count93
+\scratchcounter=\count94
 \scratchdimen=\dimen114
 \scratchbox=\box26
-\nofMPsegments=\count94
-\nofMParguments=\count95
+\nofMPsegments=\count95
+\nofMParguments=\count96
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count96
+\MPscratchCnt=\count97
 \MPscratchDim=\dimen115
-\MPnumerator=\count97
-\makeMPintoPDFobject=\count98
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks20
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
@@ -625,27 +632,31 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `bibliografia.aux'.
 
- (bibliografia.tex) [10
+ (bibliografia.tex (aps5semestre-cc.bbl
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+))
+[10
 
 
-] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux) (introducao.aux)
- (fundamentos.aux)
-(plano.aux) (projeto.aux) (codigo.aux) (bibliografia.aux)) ) 
+] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux)
+(introducao.aux) (fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux)
+(bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 3375 strings out of 493333
- 43883 string characters out of 3139191
- 214476 words of memory out of 3000000
- 6762 multiletter control sequences out of 15000+200000
- 27645 words of font info for 46 fonts, out of 3000000 for 9000
+ 3718 strings out of 493333
+ 47998 string characters out of 3139191
+ 220533 words of memory out of 3000000
+ 7094 multiletter control sequences out of 15000+200000
+ 30661 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,4n,25p,243b,175s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/
-urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvr8a.pfb>
-Output written on aps5semestre-cc.pdf (10 pages, 37430 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on aps5semestre-cc.pdf (10 pages, 45967 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
