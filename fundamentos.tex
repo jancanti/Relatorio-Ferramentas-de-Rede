@@ -71,24 +71,7 @@ Outro exemplo é a televisão. Os programas de televisão também chegam à voc�
 			\end{description}
 	\end{description}
 
-	\subsection{Método de transmissão de dados}
-	\begin{description}
-		\item[Comunicações Paralelas e em Série:] \cite{castells2002sociedade} diz que a comunicação serial é o método de transmissão de dados no quail cada símbolo que compõe a mensagem é mandado um de cada vez. Por contraste, comunicação paralela é toda aquela na qual um grupo de símbolos é enviado simultaneamente.
-		
-		A comunicação paralela é muito mais rápida, mas ela possui um problema grave. É preciso garantir que cada bit enviado chegue sempre de forma simultânea aos demais. Se ocorrer atrasos em somente um dos bits, ocorre erro de transmissão e a mensagem precisa ser corrigida ou enviada novamente. Isso acaba diminuindo a velocidade de transmissão. Quanto maior a distância percorrida pelos bits, mais difícil é garantir a sincronia. Atualmente, a comunicação paralela é utilizada principalmente em circuitos internos do computador e em HDs convencionais embora ela já tenha sido usada em impressoras e periféricos antigos.
-		
-		A comunicação serial é muito mais confiável e seus problemas com velocidade vem sendo superados com novas tecnologias. Atualmente ele é usado em HDs SATA, redes, fibras óticas, mouses e teclados USB e USB 2.0.
-		
-		\item[Comunicações Síncrona, Assíncrona e Isócrona] Quando enviamos um dado por meio de uma comunicação serial, é preciso haver uma forma de identificarmos onde começa e onde termina cada trecho da mensagem. Por exemplo, se eu enviar a mensagem o caractere H, seguido de um caractere A para um outro computador na rede, como aquela outra máquina saberá onde começa o "H" e onde começa e termina o "A" se tudo o que ele recebeu foi uma quantidade enorme de 1s e 0s?
-		
-		Uma das formas é enviar os dados de forma síncrona. Com isso, eu só posso enviar dados em períodos de tempo pré-determinados. Desta forma, eu envio um "H", aguardo um período de tempo pré-determinado e só então envio o "A". Caso eu não queira enviar nada, de tempos em tempos eu devo enviar uma seqüência de bits que representa que eu não estou falando nada. É assim que funcionam as mensagens enviadas por celulares, por exemplo.Nós só não percebemos isso quando falamos por meio deles porque o intervalo de envio de dados de um celular é muito curto.
-		
-		Outra solução para o problema seria antes de enviar qualquer coisa, enviar uma seqüência de bits que marcasse o início de uma transmissão e, após terminar, enviar bits que representem o fim da transmissão. O nome que damos à isso é "encapsulamento de dados". A vantagem é que assim eu posso enviar dados à qualquer momento. Além disso, a comunicação assíncrona é mais barata, por não exigir que hajam relógios no hardware monitorando a chegada de dados. Mouses, teclados, HDs e praticamente 99% dos dispositivos existentes hoje em dia utilizam este método de transmissão.
-		
-		Outro método de transmissão é a isócrona. Nela, envia-se mensagens ininterruptamente e o intervalo entre uma mensagem e outra já é conhecido e não muda nunca. Isso é normalmente usado para transmitir sinais de televisão digitais e também para aparelhos projetados para mostrar vídeos. Ela ainda é pouco usada, mas seu uso tende a ser maior à medida que surgem mais tecnologias que convergem vídeo, voz e dados em um mesmo meio de comunicação.
-		
-		\item[Comunicação Analógica e Digital] A comunicação analógica ocorre quando usamos para nos comunicar algum tipo de sinal físico que pode variar de forma contínua em quantidade ou força. A voltagem de uma corrente elétrica - por exemplo. Normalmente dispositivos analógicos fazem com que a intensidade ou voltagem de uma corrente elétrica oscile. Com isso, podemos usar a amplitude, frequência ou a fase da variação para transmitirmos dados. Também podemos usar todas estas coisas juntas. A comunicação analógica é utilizada em telefones fixos, celulares, modems, aparelhos de fax, TVs à cabo, rádio e outros.
-	\end{description}
+	\subsection{Modelos De transmissão de Dados}
 	
 
 
