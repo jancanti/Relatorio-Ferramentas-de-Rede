@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  28 APR 2017 10:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  10 MAY 2017 14:59
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -642,38 +642,43 @@ File: img/barramento.jpg Graphic file (type jpg)
 Package pdftex.def Info: img/barramento.jpg used on input line 66.
 (pdftex.def)             Requested size: 150.56212pt x 40.14989pt.
 
-[9 <./img/arvore.jpg> <./img/barramento.jpg>]) [10]
+[9 <./img/arvore.jpg> <./img/barramento.jpg>]
+Overfull \hbox (29.63252pt too wide) in paragraph at lines 89--90
+[]\T1/phv/m/n/12 é res-pon-sá-vel por or-ga-ni-zar os da-dos re-ce-bi-dos, colo
+cando-
+ []
+
+[10]) [11]
 \openout2 = `plano.aux'.
 
- (plano.tex) [11
+ (plano.tex) [12
 
 
 ]
 \openout2 = `projeto.aux'.
 
-
-(projeto.tex) [12
+ (projeto.tex) [13
 
 
 ]
 \openout2 = `codigo.aux'.
 
- (codigo.tex) [13
+ (codigo.tex) [14
 
 
 ]
 \openout2 = `bibliografia.aux'.
 
- (bibliografia.tex (aps5semestre-cc.bbl
+
+(bibliografia.tex (aps5semestre-cc.bbl
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
-))
-[14
+)) [15
 
 
-] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux)
-(introducao.aux) (fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux)
-(bibliografia.aux)) ) 
+] (aps5semestre-cc.aux (capa.aux)
+(sumario.aux) (objetivo.aux) (introducao.aux) (fundamentos.aux) (plano.aux)
+(projeto.aux) (codigo.aux) (bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
  3771 strings out of 493333
  49291 string characters out of 3139185
@@ -682,13 +687,13 @@ Here is how much of TeX's memory you used:
  30661 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,984b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on aps5semestre-cc.pdf (14 pages, 76131 bytes).
+{C:/Program Files/MiKTeX 2.9/fo
+nts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
+/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on aps5semestre-cc.pdf (15 pages, 79648 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -71,19 +71,35 @@ Outro exemplo é a televisão. Os programas de televisão também chegam à voc�
 			\end{description}
 	\end{description}
 
-	\subsection{Modelos De transmissão de Dados}
+	\subsection{Modelos De Comunicação de Rede}
+	Redes de computadores são estruturas bastante complexas que para funcionarem, precisam que os seus diversos componentes funcionem de forma sincronizada e colaborativa. Entretanto, se cada fabricante de hardware e software para redes fizer com que seus produtos tratem a rede de forma diferente, torna-se impossível fazer com que os diversos produtos interajam entre si.
 	
+	Para que redes de processadores tornarem-se possíveis, era preciso desenvolver uma arquitetura de redes - uma estrutura lógica e formal que especifica como os diversos componentes devem se comunicar entre si. Para isso, existem vários tipos de arquiteturas diferentes como o Modelo OSI, feito pela ISO, a SNA feita pela IBM, a DNA feita pela Digital Equipment Corporation e o Modelo TCP/IP.
 
-
-
-
-
-
-
-
-
-
-
-
+		\subsubsection{Modelo OSI}
+			Embora na prática o modelo OSI seja bem menos usado que o TCP/IP, ele costuma ser bastante estudado por motivos didáticos e é um ótimo ponto de partida para se compreender melhor como funcionam redes de computadores. Ele teve um impacto muito grande nas redes, inclusive no Modelo TCP/IP que é o mais usado. Ainda hoje, é comum que projetistas de rede usem o modelo OSI como um modelo teórico para auxiliar no desenvolvimento de redes e arquiteturas.
+			
+			Uma das características mais úteis do Modelo OSI é a subdivisão da arquitetura de redes em diferentes camadas. Essa abstração é algo que facilita a compreensão do funcionamento das redes. Assim como na programação é mais fácil resolver um problema complexo dividindo-o em menores e criando funções específicas para cada um desses, também é mais fácil criar uma arquitetura de rede coerente separando a rede em diversas camadas menores que podem ser projetadas de forma independente das demais.
+			
+			O Modelo OSI possui ao todo 7 camadas, são elas:
+			
+			\begin{description}
+				\item[Camada Física] é responsável por transferir os bits por meio de ligações. Ela cuida de questões como o tipo de cabo em uso e como é feita a conexão entre o cabo e a máquina.
+				
+				\item[Camada de Enlace de Dados] é responsável por organizar os dados recebidos, colocando-os na ordem correta, detectando e talvez corrigindo eventuais erros de transmissões.
+				
+				\item[Camada de Rede] cuida do estabelecimento de rotas e do chaveamento dos dados ao longo da rede.
+				
+				\item[Camada de Transporte] é responsável por quebrar a mensagem em pacotes menores para que ela seja transmitida. Também é responsável por depois montar os diversos pacotes em uma única mensagem posteriormente.
+				
+				\item[Camada de Sessão] cuida das regras de comunicação entre os nós que estão trocando mensagens. Ela verifica quando é possível ou não mandar dados e também sabe que tipo de comunicação os nós possuem (simplex, duplex, semi-duplex).
+				
+				\item[Camada de Apresentação] é responsável por formatar e estruturar os dados de uma forma que eles possam ser entendidos por outra máquina. Ela cuida da criptografia se necessário.
+				
+				\item[Camada de Aplicação] é responsável por cuidar das informações que chegam pela rede para cada programa de computador que está sendo usado no computador.
+			\end{description}
+		
+		\subsubsection{Protocolo TCP}
+			O TCP (Transmission Control Protocol - Protocolo de Controle de Transmissão) é um dos protocolos, sob os quais assenta o núcleo da Internet nos dias de hoje. A versatilidade e robustez deste protocolo tornou-o adequado para redes globais, já que este verifica se os dados são enviados de forma correta, na sequência apropriada e sem erros, pela rede.
 
 
