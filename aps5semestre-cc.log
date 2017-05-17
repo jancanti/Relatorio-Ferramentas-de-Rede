@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  10 MAY 2017 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  16 MAY 2017 17:08
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -597,23 +597,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `objetivo.aux'.
 
- (objetivo.tex) [3
+ (objetivo.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+) [3
 
 
 ]
 \openout2 = `introducao.aux'.
 
- (introducao.tex) [4
+ (introducao.tex [4
 
 
-]
+]) [5]
 \openout2 = `fundamentos.aux'.
 
- (fundamentos.tex [5
+ (fundamentos.tex [6
 
 
-] [6]
-<img/estrela.jpg, id=22, 150.5625pt x 150.5625pt>
+] [7]
+<img/estrela.jpg, id=27, 150.5625pt x 150.5625pt>
 File: img/estrela.jpg Graphic file (type jpg)
  <use img/estrela.jpg>
 Package pdftex.def Info: img/estrela.jpg used on input line 42.
@@ -624,76 +627,73 @@ Overfull \hbox (0.11151pt too wide) in paragraph at lines 39--46
 b ou switch)
  []
 
-[7] <img/laco.jpg, id=27, 150.5625pt x 150.5625pt>
+[8] <img/laco.jpg, id=31, 150.5625pt x 150.5625pt>
 File: img/laco.jpg Graphic file (type jpg)
  <use img/laco.jpg>
 Package pdftex.def Info: img/laco.jpg used on input line 49.
 (pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
 
-<img/arvore.jpg, id=28, 150.5625pt x 150.5625pt>
+<img/arvore.jpg, id=32, 150.5625pt x 150.5625pt>
 File: img/arvore.jpg Graphic file (type jpg)
  <use img/arvore.jpg>
 Package pdftex.def Info: img/arvore.jpg used on input line 56.
 (pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
- [8 <./img/estrela.jpg> <./img/laco.jpg>]
-<img/barramento.jpg, id=32, 150.5625pt x 40.15pt>
+ [9 <./img/estrela.jpg> <./img/laco.jpg>]
+<img/barramento.jpg, id=36, 150.5625pt x 40.15pt>
 File: img/barramento.jpg Graphic file (type jpg)
  <use img/barramento.jpg>
 Package pdftex.def Info: img/barramento.jpg used on input line 66.
 (pdftex.def)             Requested size: 150.56212pt x 40.14989pt.
 
-[9 <./img/arvore.jpg> <./img/barramento.jpg>]
+[10 <./img/arvore.jpg> <./img/barramento.jpg>]
 Overfull \hbox (29.63252pt too wide) in paragraph at lines 89--90
 []\T1/phv/m/n/12 é res-pon-sá-vel por or-ga-ni-zar os da-dos re-ce-bi-dos, colo
 cando-
  []
 
-[10]) [11]
+[11]) [12]
 \openout2 = `plano.aux'.
 
- (plano.tex) [12
+ (plano.tex) [13
 
 
 ]
 \openout2 = `projeto.aux'.
 
- (projeto.tex) [13
+ (projeto.tex) [14
 
 
 ]
 \openout2 = `codigo.aux'.
 
- (codigo.tex) [14
+ (codigo.tex) [15
 
 
 ]
 \openout2 = `bibliografia.aux'.
 
 
-(bibliografia.tex (aps5semestre-cc.bbl
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
-)) [15
+(bibliografia.tex (aps5semestre-cc.bbl)) [16
 
 
 ] (aps5semestre-cc.aux (capa.aux)
 (sumario.aux) (objetivo.aux) (introducao.aux) (fundamentos.aux) (plano.aux)
 (projeto.aux) (codigo.aux) (bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 3771 strings out of 493333
- 49291 string characters out of 3139185
+ 3775 strings out of 493333
+ 49301 string characters out of 3139185
  220722 words of memory out of 3000000
- 7141 multiletter control sequences out of 15000+200000
- 30661 words of font info for 48 fonts, out of 3000000 for 9000
+ 7143 multiletter control sequences out of 15000+200000
+ 35829 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,984b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fo
 nts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
 /uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on aps5semestre-cc.pdf (15 pages, 79648 bytes).
+Output written on aps5semestre-cc.pdf (16 pages, 82537 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

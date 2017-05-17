@@ -1,10 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{CASTELLS}{2002}]{castells2002sociedade}
-CASTELLS, M. (2002).
-\newblock {\em A sociedade em rede}, volume~1.
-\newblock Funda{\c{c}}{\~a}o Calouste Gulbenkian.
-
 \bibitem[\protect\astroncite{FARIAS}{2006}]{farias2006essncial}
 FARIAS, P. C.~B. (2006).
 \newblock {\em Curso Essencial de Redes.}, volume~2.
@@ -25,6 +20,11 @@ GALLO, M.~A., Hancock, W.~S., da~Silva, F. S.~C., de~Freitas~Carneiro, M.~R.,
 MORIMOTO, C.~E. (2005).
 \newblock Gateway, a porta de entrada da internet. acessado em 27-04-2017.
   disponível em \textbf{http://www.hardware.com.br/termos/gateway}.
+
+\bibitem[\protect\astroncite{NAPSOL}{2017}]{napsol2010}
+NAPSOL (2017).
+\newblock Portal para redes temáticas de pesquisa. \textsc{A}cessado em abril
+  2017. disponível em \textbf{http://napsol.icmc.usp.br/en/node/352}.
 
 \bibitem[\protect\astroncite{ROSS}{2008}]{ross2009redes}
 ROSS, J. (2008).

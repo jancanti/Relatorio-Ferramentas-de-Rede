@@ -17,4 +17,8 @@ I was expecting a `,' or a `}'---line 38 of file refs.bib
  :  edition={1a. edição}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--entry type for "napsol2010" isn't style-file defined
+--line 56 of file refs.bib
+Warning--I'm ignoring napsol2010's extra "year" field
+--line 62 of file refs.bib
 (There was 1 error message)
