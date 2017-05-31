@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.25)  17 MAY 2017 13:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.26)  30 MAY 2017 20:59
 entering extended mode
 **./aps5semestre-cc.tex
 (aps5semestre-cc.tex
@@ -52,7 +52,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
@@ -393,14 +393,14 @@ Package: babel 2016/04/23 3.9r The Babel package
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuges
-.ldf
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count90
 \U@D=\dimen111
@@ -411,7 +411,7 @@ Package babel Info: Making " an active character on input line 145.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
@@ -446,7 +446,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count93
 )
@@ -505,7 +505,7 @@ File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\micro168\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen114
@@ -568,23 +568,21 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 ) [1
 
 
-{C:/Users/micro168/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 \openout2 = `sumario.aux'.
 
-
-(sumario.tex
+ (sumario.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
- (aps5semestre-cc.toc
+
+(aps5semestre-cc.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 5.
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -660,40 +658,102 @@ cando-
 ]
 \openout2 = `projeto.aux'.
 
- (projeto.tex) [14
+ (projeto.tex
+<img/t-conectar.jpeg, id=50, 1284.8pt x 803.0pt>
+File: img/t-conectar.jpeg Graphic file (type jpg)
+ <use img/t-conectar.jpeg>
+Package pdftex.def Info: img/t-conectar.jpeg used on input line 8.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-login.jpeg, id=51, 1284.8pt x 803.0pt>
+File: img/t-login.jpeg Graphic file (type jpg)
+ <use img/t-login.jpeg>
+Package pdftex.def Info: img/t-login.jpeg used on input line 15.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-pag-cadastro.jpeg, id=52, 1284.8pt x 803.0pt>
+File: img/t-pag-cadastro.jpeg Graphic file (type jpg)
+
+<use img/t-pag-cadastro.jpeg>
+Package pdftex.def Info: img/t-pag-cadastro.jpeg used on input line 22.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-cadastro-sucesso.jpeg, id=53, 1284.8pt x 803.0pt>
+File: img/t-cadastro-sucesso.jpeg Graphic file (type jpg)
+
+<use img/t-cadastro-sucesso.jpeg>
+Package pdftex.def Info: img/t-cadastro-sucesso.jpeg used on input line 29.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-rodando.jpeg, id=54, 1284.8pt x 803.0pt>
+File: img/t-rodando.jpeg Graphic file (type jpg)
+ <use img/t-rodando.jpeg>
+Package pdftex.def Info: img/t-rodando.jpeg used on input line 36.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-msg-enviada.jpeg, id=55, 1284.8pt x 803.0pt>
+File: img/t-msg-enviada.jpeg Graphic file (type jpg)
+
+<use img/t-msg-enviada.jpeg>
+Package pdftex.def Info: img/t-msg-enviada.jpeg used on input line 43.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-log-server.jpeg, id=56, 1284.8pt x 803.0pt>
+File: img/t-log-server.jpeg Graphic file (type jpg)
+ <use img/t-log-server.jpeg>
+Package pdftex.def Info: img/t-log-server.jpeg used on input line 50.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+
+<img/t-banco-senha-cripto.jpeg, id=57, 1284.8pt x 803.0pt>
+File: img/t-banco-senha-cripto.jpeg Graphic file (type jpg)
+
+<use img/t-banco-senha-cripto.jpeg>
+Package pdftex.def Info: img/t-banco-senha-cripto.jpeg used on input line 57.
+(pdftex.def)             Requested size: 321.19922pt x 200.74951pt.
+) [14
 
 
-]
+ <./img/t-conectar.jpeg> <./img/t-login.jpeg>]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+[15 <./img/t-pag-cadastro.jpeg> <./img/t-cadastro-sucesso.jpeg> <./img/t-rodand
+o.jpeg>]
+
+LaTeX Warning: Text page 16 contains only floats.
+
+[16 <./img/t-msg-enviada.jpeg> <./img/t-log-server.jpeg> <./img/t-banco-senha-c
+ripto.jpeg>]
 \openout2 = `codigo.aux'.
 
- (codigo.tex) [15
+ (codigo.tex) [17
 
 
 ]
 \openout2 = `bibliografia.aux'.
 
+ (bibliografia.tex (aps5semestre-cc.bbl))
+[18
 
-(bibliografia.tex (aps5semestre-cc.bbl)) [16
 
-
-] (aps5semestre-cc.aux (capa.aux)
-(sumario.aux) (objetivo.aux) (introducao.aux) (fundamentos.aux) (plano.aux)
-(projeto.aux) (codigo.aux) (bibliografia.aux)) ) 
+] (aps5semestre-cc.aux (capa.aux) (sumario.aux) (objetivo.aux)
+(introducao.aux) (fundamentos.aux) (plano.aux) (projeto.aux) (codigo.aux)
+(bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 3775 strings out of 493333
- 49301 string characters out of 3139185
- 221722 words of memory out of 3000000
- 7143 multiletter control sequences out of 15000+200000
+ 3824 strings out of 493333
+ 50240 string characters out of 3139191
+ 220800 words of memory out of 3000000
+ 7183 multiletter control sequences out of 15000+200000
  35829 words of font info for 50 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,984b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fo
-nts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
-/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on aps5semestre-cc.pdf (16 pages, 82545 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on aps5semestre-cc.pdf (18 pages, 2093582 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
